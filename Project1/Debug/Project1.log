@@ -1,0 +1,16 @@
+﻿  源.cpp
+p:\program\project1\project1\3dpaint.h(63): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  p:\program\project1\project1\3dpaint.h(59): note: 编译 类 模板 成员函数 "void rect4<27783>::_insert(vector3,vector3,vector3,COLORREF)" 时
+  p:\program\project1\project1\3dpaint.h(141): note: 参见对正在编译的函数 模板 实例化“void rect4<27783>::_insert(vector3,vector3,vector3,COLORREF)”的引用
+  p:\program\project1\project1\源.cpp(61): note: 参见对正在编译的 类 模板 实例化 "rect4<27783>" 的引用
+p:\program\project1\project1\3dpaint.h(63): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(64): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(64): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(65): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(65): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(69): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(70): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(85): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\3dpaint.h(86): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+p:\program\project1\project1\源.cpp(136): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> P:\Program\Project1\Debug\Project1.exe
